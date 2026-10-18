@@ -1,0 +1,10 @@
+  {
+    "name": "witwash-plugins",
+    "owner": { "name": "witwash" },
+    "plugins": [
+      {
+        "name": "vgv-wingspan-fork",
+        "source": { "source": "github", "repo": "witwash/vgv-wingspan" }
+      }
+    ]
+  }
